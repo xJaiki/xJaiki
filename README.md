@@ -12,7 +12,7 @@
 <hr>
 
 ```
-📚 I'm a computer science student at Università degli studi di Napoli Parthenope
+📚 I'm a computer science student at Università degli studi Parthenope
 🗺 I'm from Italy, and YES i eat pizza every week
 💻 Computer science and technology enthusiast
 🕹  Love playing videogames in the free time
