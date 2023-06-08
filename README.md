@@ -12,15 +12,13 @@
 <hr>
 
 ```
-📚 I'm a computer science student at Università degli studi Parthenope
+📚 I'm a full time back-end developer
 🗺 I'm from Italy, and YES i eat pizza every week
 💻 Computer science and technology enthusiast
 🕹  Love playing videogames in the free time
-👨‍💻 I really enjoy web design! 
 🌟 Main languages: Java, Java, Java and Javascript
 🎵 Literally listen every songs, don't have a particular favourite genre
 ☕ Energy drink addicted
-
 ```
 <hr>
 
