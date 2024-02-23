@@ -16,7 +16,7 @@
 🗺 I'm from Italy, and YES i eat pizza every week
 💻 Computer science and technology enthusiast
 🕹  Love playing videogames in the free time
-🌟 Main languages: Java, Java, Java and Javascript
+🌟 Main languages: C#, Java, Java and Javascript
 🎵 Literally listen every songs, don't have a particular favourite genre
 ☕ Energy drink addicted
 ```
