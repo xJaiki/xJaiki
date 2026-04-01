@@ -7,7 +7,7 @@
 <br><br>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,java,react,tailwind,supabase,docker,postgres,linux&theme=dark&perline=4" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,ts,spring,supabase,docker,postgres,linux&theme=dark&perline=4" alt="Stack" />
 </a>
 
 <br><br><br>
